@@ -22,6 +22,5 @@ public class Task9 {
 
         double result = ((a / c) * (b / d)) - (((a * b) - c) / (c * d));
         System.out.println(result);
-
     }
 }
